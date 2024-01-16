@@ -35,4 +35,5 @@ public class RybkaApplication extends CzechitasGameApplication {
     kamen = new Kamen(200, 200);
     rybka = new Rybka(100, 100);
   }
+
 }
